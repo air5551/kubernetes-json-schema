@@ -33,6 +33,6 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Adding new schemas
-          commit_user_name: Yann Hamon
-          commit_user_email: yann+github@mandragor.org
-          commit_author: Yann Hamon <yann+github@mandragor.org>
+          commit_user_name: air5551
+          commit_user_email: air@@noemail.org
+          commit_author: air5551
